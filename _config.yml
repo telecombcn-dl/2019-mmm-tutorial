@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "4th Summer School on Deep Learning for Computer Vision UPC Barcelona 2019"
-keywords:    "computer vision, deep learning"
-description: "4th Summer School on Deep Learning for Computer Vision UPC Barcelona 2019"
+title:       "Multimodal Deep Learning Tutorial at MMM 2019"
+keywords:    "computer vision, deep learning, multimodal, multimedida"
+description: "Multimodal Deep Learning Tutorial at MMM 2019"
 source_link: "https://github.com/telecombcn-dl"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
