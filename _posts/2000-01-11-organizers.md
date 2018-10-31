@@ -1,17 +1,12 @@
 ---
-title: "Organizers"
+title: "Organizer"
 bg: #9AD1F5
 color: black
 style: center
 fa-icon: cog
 ---
 
-<a href="https://www.etsetb.upc.edu/en/"><img src="img/logos/etsetb.png" alt="ETSETB" style="width: 200px;"/></a>
+<a href="http://mmm2019.iti.gr/"><img src="http://mmm2019.iti.gr/wp-content/uploads/2018/01/mmm2019_Logo.png" alt="MMM2019" style="width: 200px;"/></a>
 <br>
-ETSETB Telecom BCN
-<br>
-<br>
-<a href="https://imatge.upc.edu/web/"><img src="img/logos/upc.png" alt="UPC" style="width: 200px;"/></a>
-<br>
-Universitat Politècnica de Catalunya
+25th International Conference on MultiMedia Modeling
 <br>
